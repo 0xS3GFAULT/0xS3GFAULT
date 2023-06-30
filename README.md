@@ -9,4 +9,4 @@
 - Python
 - Assembly language (8086 / ARM)
 - Rust
-- VeSP
+- VeSP (Very easy Simple Processor)
