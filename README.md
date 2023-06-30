@@ -8,7 +8,7 @@
 - C
 - Python
 - Bash
-- Assembly language (8086 / ARM)
+- Assembly (8086 / ARM)
 - Rust
 - VeSP (Very easy Simple Processor)
 - Brainf*ck
